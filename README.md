@@ -8,7 +8,7 @@ $ go run ./
 
 # Build
 ```
-GOOS=[your OS] GOARCH=amd64 go build
+GOOS=[your OS] GOARCH=amd64 go build -o create-jwt ./
 ```
 
 # Usage
