@@ -1,5 +1,5 @@
 # create-jwt
-this is a cli-tools for create jwt.
+this is a cli-tool for creating jwt.
 
 # Run
 ```
